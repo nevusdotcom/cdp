@@ -67,11 +67,10 @@ wp_head();
         </div><!-- end of #logo -->  
 
     <?php endif; // header image was removed (again) ?>
-
+<!--
         <div id="search-box">
-            <?php get_search_form(); ?>
+            <?php /*get_search_form(); */?>
         </div><!-- end of #search-box -->
-        
         <?php
         /**
          * WPML Language Switcher
@@ -83,7 +82,7 @@ wp_head();
 		} 
         ?>
                 
-        <?php
+       <!-- <?php
             $options = get_option( 'shell_theme_options' );
 					
             // First let's check if any of this was set
