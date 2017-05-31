@@ -1,0 +1,720 @@
+# Copyright (C) 2014
+# This file is distributed under the same license as the Shell package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shell Lite 1.8.1\n"
+"Report-Msgid-Bugs-To: http://devwp.eu\n"
+"POT-Creation-Date: 2014-04-04 14:18+0200\n"
+"Last-Translator: Stanko Metodiev <stanko@metodiew.com>\n"
+"PO-Revision-Date: 2014-04-04 14:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: Shell-Lite\n"
+"X-Textdomain-Support: yes"
+
+#: footer.php:31
+msgid "&uarr;"
+msgstr ""
+
+#: footer.php:34
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:35
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:35
+msgid "http://devwp.eu/"
+msgstr ""
+
+#: footer.php:36
+#, php-format
+msgid "&amp; %s"
+msgstr ""
+
+#: 404.php:23
+#: blog.php:89
+#: single.php:107
+#: archive.php:98
+#: blog-excerpt.php:91
+#: content-full.php:91
+#: image.php:81
+#: index.php:81
+#: sitemap.php:98
+#: page.php:90
+#: search.php:76
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr ""
+
+#: 404.php:24
+#: blog.php:90
+#: single.php:108
+#: archive.php:99
+#: blog-excerpt.php:92
+#: content-full.php:92
+#: image.php:82
+#: index.php:82
+#: sitemap.php:99
+#: page.php:91
+#: search.php:77
+msgid ""
+"Don't panic, we'll get through this together. Let's explore our options here."
+msgstr ""
+
+#: 404.php:25
+#: blog.php:91
+#: single.php:109
+#: archive.php:100
+#: blog-excerpt.php:93
+#: content-full.php:93
+#: image.php:83
+#: index.php:83
+#: sitemap.php:100
+#: page.php:92
+#: search.php:78
+msgid "You can return"
+msgstr ""
+
+#: 404.php:25
+#: blog.php:91
+#: single.php:109
+#: archive.php:100
+#: blog-excerpt.php:93
+#: content-full.php:93
+#: image.php:83
+#: index.php:83
+#: sitemap.php:100
+#: page.php:92
+#: search.php:78
+msgid "&#9166; Home"
+msgstr ""
+
+#: 404.php:25
+#: blog.php:91
+#: single.php:109
+#: archive.php:100
+#: blog-excerpt.php:93
+#: content-full.php:93
+#: image.php:83
+#: index.php:83
+#: sitemap.php:100
+#: page.php:92
+#: search.php:78
+msgid "or search for the page you were looking for"
+msgstr ""
+
+#: blog.php:28
+#: blog-excerpt.php:30
+msgid "You're in all Blogs Section"
+msgstr ""
+
+#: blog.php:35
+#: archive.php:47
+#: blog-excerpt.php:37
+#: index.php:27
+#: sitemap.php:73
+#: search.php:42
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: blog.php:39
+#: single.php:39
+#: archive.php:51
+#: blog-excerpt.php:41
+#: content-full.php:41
+#: image.php:32
+#: index.php:31
+#: page.php:40
+#, php-format
+msgid "<span class=\"%1$s\">Posted on</span> %2$s by %3$s"
+msgstr ""
+
+#: blog.php:55
+#: single.php:55
+#: archive.php:67
+#: blog-excerpt.php:57
+#: content-full.php:57
+#: image.php:48
+#: index.php:47
+#: page.php:56
+msgid "No Comments &darr;"
+msgstr ""
+
+#: blog.php:55
+#: single.php:55
+#: archive.php:67
+#: blog-excerpt.php:57
+#: content-full.php:57
+#: image.php:48
+#: index.php:47
+#: page.php:56
+msgid "1 Comment &darr;"
+msgstr ""
+
+#: blog.php:55
+#: single.php:55
+#: archive.php:67
+#: blog-excerpt.php:57
+#: content-full.php:57
+#: image.php:48
+#: index.php:47
+#: page.php:56
+msgid "% Comments &darr;"
+msgstr ""
+
+#: blog.php:66
+#: single.php:61
+#: content-full.php:64
+#: index.php:58
+#: page.php:63
+msgid "See more &#8250;"
+msgstr ""
+
+#: blog.php:67
+#: single.php:83
+#: archive.php:74
+#: blog-excerpt.php:69
+#: content-full.php:65
+#: image.php:57
+#: index.php:59
+#: sitemap.php:77
+#: page.php:64
+#: search.php:51
+msgid "Pages:"
+msgstr ""
+
+#: blog.php:71
+#: single.php:87
+#: archive.php:78
+#: blog-excerpt.php:73
+#: content-full.php:70
+#: image.php:67
+#: index.php:63
+#: page.php:69
+#: search.php:55
+msgid "Tagged with:"
+msgstr ""
+
+#: blog.php:72
+#: single.php:88
+#: archive.php:79
+#: blog-excerpt.php:74
+#: content-full.php:71
+#: image.php:68
+#: index.php:64
+#: page.php:70
+#: search.php:56
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+#: blog.php:75
+#: single.php:91
+#: archive.php:82
+#: blog-excerpt.php:77
+#: content-full.php:75
+#: image.php:72
+#: index.php:67
+#: sitemap.php:84
+#: page.php:74
+#: search.php:57
+msgid "Edit"
+msgstr ""
+
+#: blog.php:82
+#: single.php:100
+#: archive.php:91
+#: blog-excerpt.php:84
+#: content-full.php:84
+#: index.php:74
+#: sitemap.php:91
+#: page.php:83
+#: search.php:69
+msgid "&#8249; Older posts"
+msgstr ""
+
+#: blog.php:83
+#: single.php:101
+#: archive.php:92
+#: blog-excerpt.php:85
+#: content-full.php:85
+#: index.php:75
+#: sitemap.php:92
+#: page.php:84
+#: search.php:70
+msgid "Newer posts &#8250;"
+msgstr ""
+
+#: comments.php:19
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:24
+#: search.php:58
+msgid "No Comments &#187;"
+msgstr ""
+
+#: comments.php:24
+#: search.php:58
+msgid "1 Comment &#187;"
+msgstr ""
+
+#: comments.php:24
+#: search.php:58
+msgid "% Comments &#187;"
+msgstr ""
+
+#: comments.php:28
+#: comments.php:39
+msgid "&#8249; Older comments"
+msgstr ""
+
+#: comments.php:29
+#: comments.php:40
+msgid "Newer comments &#8250;"
+msgstr ""
+
+#: comments.php:51
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+#: comments.php:54
+msgid "for"
+msgstr ""
+
+#: comments.php:67
+msgid "Name"
+msgstr ""
+
+#: comments.php:69
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:71
+msgid "Website"
+msgstr ""
+
+#: single.php:74
+msgid "About"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr ""
+
+#: sidebar-home.php:24
+msgid "Primary Home Widget"
+msgstr ""
+
+#: sidebar-home.php:26
+msgid ""
+"Testimonials are a powerful selling tool. Many great selling ads are made up "
+"of 1/3 testimonials of the company's products or services. This is only a "
+"suggestion, since this area is widgetized you can use it any way you please "
+"to satisfy your needs."
+msgstr ""
+
+#: sidebar-home.php:39
+msgid "Secondary Home Widget"
+msgstr ""
+
+#: sidebar-home.php:41
+msgid ""
+"Since 1975, Shell-Lite has been committed to ethically producing the highest "
+"quality service in the world. Today with more than 5000 employees worldwide "
+"Shell-Lite is still committed to same producing quality."
+msgstr ""
+
+#: sidebar-home.php:54
+msgid "Tertiary Home Widget"
+msgstr ""
+
+#: sidebar-home.php:56
+msgid ""
+"Headline, Subheadline, brief info above the call-to-action button and "
+"including the button, together with its destination link can be changed via "
+"Theme Options. Logo is uploadable as well. Three columns you see here are "
+"widgets."
+msgstr ""
+
+#: front-page.php:36
+msgid "Your H1 Headline Goes Right Here. Great for SEO!"
+msgstr ""
+
+#: front-page.php:60
+msgid "Your H2 Subheadline Here"
+msgstr ""
+
+#: front-page.php:73
+msgid ""
+"Properly structured landing page is big part of the Search Engine "
+"Optimization. Shell is a hassle-free WordPress CMS Theme. All of the content "
+"on this landing page\n"
+"\t\t\t\t     is fully manageable directly from Theme Options, including call-"
+"to-action button and its destination."
+msgstr ""
+
+#: front-page.php:100
+msgid "Call to Action"
+msgstr ""
+
+#: sidebar-gallery.php:21
+msgid "Image Information"
+msgstr ""
+
+#: sidebar-gallery.php:25
+msgid "Full Size:"
+msgstr ""
+
+#: sidebar-gallery.php:28
+msgid "Aperture: f/"
+msgstr ""
+
+#: sidebar-gallery.php:32
+msgid "Focal Length:"
+msgstr ""
+
+#: sidebar-gallery.php:36
+msgid "ISO:"
+msgstr ""
+
+#: sidebar-gallery.php:40
+msgid "Shutter:"
+msgstr ""
+
+#: sidebar-gallery.php:57
+msgid "Camera:"
+msgstr ""
+
+#: image.php:28
+msgid "&#8249; Return to"
+msgstr ""
+
+#: image.php:56
+msgid "See more &#8250;;"
+msgstr ""
+
+#: sitemap.php:42
+msgid "Pages"
+msgstr ""
+
+#: sitemap.php:47
+#: sitemap.php:49
+#: includes/theme-options.php:298
+msgid "RSS Feed"
+msgstr ""
+
+#: sitemap.php:50
+msgid "Comments"
+msgstr ""
+
+#: sitemap.php:55
+msgid "Categories"
+msgstr ""
+
+#: sitemap.php:61
+msgid "In Archive"
+msgstr ""
+
+#: sitemap.php:69
+msgid "Blog"
+msgstr ""
+
+#: header.php:140
+msgid "Home"
+msgstr ""
+
+#: search.php:21
+msgid "We found"
+msgstr ""
+
+#: search.php:26
+msgid " &#8211; "
+msgstr ""
+
+#: search.php:28
+msgid "articles for "
+msgstr ""
+
+#: search.php:29
+msgid "<span class=\"post-search-terms\">"
+msgstr ""
+
+#: search.php:31
+msgid "</span><!-- end of .post-search-terms -->"
+msgstr ""
+
+#: search.php:45
+msgid "F jS, Y"
+msgstr ""
+
+#: search.php:50
+msgid "Read more &raquo;"
+msgstr ""
+
+#: search.php:58
+msgid "Comments Closed"
+msgstr ""
+
+#: includes/theme-options.php:34
+#: includes/theme-options.php:101
+msgid "Theme Options"
+msgstr ""
+
+#: includes/theme-options.php:34
+msgid "Shell Lite Options"
+msgstr ""
+
+#: includes/theme-options.php:107
+msgid "Shell Lite Options saved"
+msgstr ""
+
+#: includes/theme-options.php:123
+msgid "Headline"
+msgstr ""
+
+#: includes/theme-options.php:126
+msgid "Enter your headline"
+msgstr ""
+
+#: includes/theme-options.php:135
+msgid "Content Area"
+msgstr ""
+
+#: includes/theme-options.php:138
+msgid "Enter your content"
+msgstr ""
+
+#: includes/theme-options.php:147
+msgid "Subheadline"
+msgstr ""
+
+#: includes/theme-options.php:150
+msgid "Enter your subheadline"
+msgstr ""
+
+#: includes/theme-options.php:159
+msgid "Featured Image"
+msgstr ""
+
+#: includes/theme-options.php:162
+msgid ""
+"Enter your featured image link (Suggested image dimensions are "
+"<strong>440x300px</strong>.)"
+msgstr ""
+
+#: includes/theme-options.php:172
+msgid "Featured Button (Link)"
+msgstr ""
+
+#: includes/theme-options.php:175
+msgid "Enter your featured button link"
+msgstr ""
+
+#: includes/theme-options.php:184
+msgid "Featured Button (Text)"
+msgstr ""
+
+#: includes/theme-options.php:187
+msgid "Enter your featured button text"
+msgstr ""
+
+#: includes/theme-options.php:196
+msgid "Featured Button (Target)"
+msgstr ""
+
+#: includes/theme-options.php:199
+msgid "Featured Button Open in New Tab/Window"
+msgstr ""
+
+#: includes/theme-options.php:208
+#: includes/theme-options.php:211
+msgid "Hide Featured Button"
+msgstr ""
+
+#: includes/theme-options.php:220
+msgid "Google Site Verification"
+msgstr ""
+
+#: includes/theme-options.php:223
+msgid "Enter your Google ID number only"
+msgstr ""
+
+#: includes/theme-options.php:232
+msgid "Bing Site Verification"
+msgstr ""
+
+#: includes/theme-options.php:235
+msgid "Enter your Bing ID number only"
+msgstr ""
+
+#: includes/theme-options.php:244
+msgid "Yahoo Site Verification"
+msgstr ""
+
+#: includes/theme-options.php:247
+msgid "Enter your Yahoo ID number only"
+msgstr ""
+
+#: includes/theme-options.php:256
+msgid "Twitter"
+msgstr ""
+
+#: includes/theme-options.php:259
+msgid "Enter your Twitter URL"
+msgstr ""
+
+#: includes/theme-options.php:263
+msgid "Facebook"
+msgstr ""
+
+#: includes/theme-options.php:266
+#: includes/theme-options.php:273
+#: includes/theme-options.php:280
+msgid "Enter your Facebook URL"
+msgstr ""
+
+#: includes/theme-options.php:270
+msgid "WordPress"
+msgstr ""
+
+#: includes/theme-options.php:277
+msgid "GitHub"
+msgstr ""
+
+#: includes/theme-options.php:284
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/theme-options.php:287
+msgid "Enter your LinkedIn URL"
+msgstr ""
+
+#: includes/theme-options.php:291
+msgid "YouTube"
+msgstr ""
+
+#: includes/theme-options.php:294
+msgid "Enter your YouTube URL"
+msgstr ""
+
+#: includes/theme-options.php:301
+msgid "Enter your RSS Feed URL"
+msgstr ""
+
+#: includes/theme-options.php:310
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:313
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: includes/theme-options.php:322
+msgid "Author Bio"
+msgstr ""
+
+#: includes/theme-options.php:325
+msgid "Display Author Bio below Post"
+msgstr ""
+
+#: includes/theme-options.php:331
+msgid "Save Options"
+msgstr ""
+
+#: includes/functions.php:69
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/functions.php:216
+msgid "<div class=\"see-more\">See more &#8250;</div><!-- end of .see-more -->"
+msgstr ""
+
+#: includes/functions.php:293
+msgid "Archive for "
+msgstr ""
+
+#: includes/functions.php:346
+msgid "Search results for "
+msgstr ""
+
+#: includes/functions.php:349
+msgid "Posts tagged "
+msgstr ""
+
+#: includes/functions.php:354
+msgid "All posts by "
+msgstr ""
+
+#: includes/functions.php:357
+msgid "Error 404 "
+msgstr ""
+
+#: includes/functions.php:362
+msgid "Page"
+msgstr ""
+
+#: includes/functions.php:407
+msgid "Primary Sidebar Widget"
+msgstr ""
+
+#: includes/functions.php:408
+msgid "Area One Primary Widget"
+msgstr ""
+
+#: includes/functions.php:417
+msgid "Primary Home Sidebar Widget"
+msgstr ""
+
+#: includes/functions.php:418
+msgid "Area Two Primary Home Widget"
+msgstr ""
+
+#: includes/functions.php:427
+msgid "Secondary Home Sidebar Widget"
+msgstr ""
+
+#: includes/functions.php:428
+msgid "Area Three Secondary Home Widget"
+msgstr ""
+
+#: includes/functions.php:437
+msgid "Tertiary Home Sidebar Widget"
+msgstr ""
+
+#: includes/functions.php:438
+msgid "Area Four Tertiary Home Widget"
+msgstr ""
+
+#: includes/functions.php:447
+msgid "Gallery Widget"
+msgstr ""
+
+#: includes/functions.php:448
+msgid "Area Five Gallery Widget"
+msgstr ""
