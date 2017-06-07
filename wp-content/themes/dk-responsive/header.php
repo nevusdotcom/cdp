@@ -71,6 +71,6 @@
 <div class="content">
     <div class="container">
         <div class="contentArea col-md-12">
-            <div class="text-right col-md-12">
-                <?php get_search_form(); ?>
+            <div class="carousel-custom">
+                <?php echo do_shortcode("[slide-anything id='97']"); ?>
             </div>
