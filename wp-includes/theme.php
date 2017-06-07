@@ -1982,7 +1982,7 @@ function get_theme_starter_content() {
 		'nav_menus' => array(
 			'link_home' => array(
 				'type' => 'custom',
-				'title' => _x( 'Home', 'Theme starter content' ),
+				'title' => _x( 'HOME', 'Theme starter content' ),
 				'url' => home_url( '/' ),
 			),
 			'page_home' => array( // Deprecated in favor of home_link.
@@ -2055,7 +2055,7 @@ function get_theme_starter_content() {
 		'posts' => array(
 			'home' => array(
 				'post_type' => 'page',
-				'post_title' => _x( 'Home', 'Theme starter content' ),
+				'post_title' => _x( 'HOME', 'Theme starter content' ),
 				'post_content' => _x( 'Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time.', 'Theme starter content' ),
 			),
 			'about' => array(

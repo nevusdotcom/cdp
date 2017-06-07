@@ -55,16 +55,17 @@
 <nav id="site-navigation" class="main-navigation" role="navigation">
     <div class="container">
         <div class="col-md-12">
-            <button class="menu-toggle">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+            <div class="col-md-12">
+                <button class="menu-toggle">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
             <?php wp_nav_menu(array('theme_location' => 'primary')); ?>
         </div>
     </div>
 </nav><!-- #site-navigation -->
-
 
 
 <div class="content">

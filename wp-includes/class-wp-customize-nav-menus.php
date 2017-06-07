@@ -156,7 +156,7 @@ final class WP_Customize_Nav_Menus {
 				// Add "Home" link. Treat as a page, but switch to custom on add.
 				$items[] = array(
 					'id'         => 'home',
-					'title'      => _x( 'Home', 'nav menu home label' ),
+					'title'      => _x( 'HOME', 'nav menu home label' ),
 					'type'       => 'custom',
 					'type_label' => __( 'Custom Link' ),
 					'object'     => '',

@@ -232,7 +232,7 @@ add_action( 'widgets_init', 'shell_remove_recent_comments_style' );
 function shell_breadcrumb_lists () {
   
   $chevron = '<span class="chevron">&#8250;</span>';
-  $home = 'Home'; // text for the 'Home' link
+  $home = 'HOME'; // text for the 'Home' link
   $before = '<span class="breadcrumb-current">'; // tag before the current crumb
   $after = '</span>'; // tag after the current crumb
  
