@@ -11,7 +11,7 @@ function slide_anything_shortcode($atts) {
 	wp_enqueue_script('jquery');
 	wp_register_script('owl_carousel_js', SA_PLUGIN_PATH.'owl-carousel/owl.carousel.min.js', array('jquery'), '2.2.1', true);
 	wp_enqueue_script('owl_carousel_js');
-	wp_register_style('owl_carousel_css', SA_PLUGIN_PATH.'owl-carousel/owl.carousel.css', array(), '2.0', 'all');
+	wp_register_style('owl_carousel_css', SA_PLUGIN_PATH.'owl-carousel/owl.carousel.css', array(), '2.2.1', 'all');
 	wp_enqueue_style('owl_carousel_css');
 	wp_register_style('owl_theme_css', SA_PLUGIN_PATH.'owl-carousel/sa-owl-theme.css', array(), '2.0', 'all');
 	wp_enqueue_style('owl_theme_css');

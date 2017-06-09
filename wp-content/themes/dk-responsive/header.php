@@ -39,7 +39,7 @@
             if (!empty($logo)) {
                 ?>
                 <a href="<?php echo esc_url(home_url('/')); ?>" rel="home">
-                    <img width="100%" src="<?php echo esc_url($logo); ?>" alt="<?php bloginfo('name'); ?>"/>
+                    <img src="<?php echo esc_url($logo); ?>" alt="<?php bloginfo('name'); ?>"/>
                 </a>
                 <?php
             } else {
@@ -70,7 +70,7 @@
 
 <div class="content">
     <div class="container">
-        <div class="contentArea col-md-12">
+        <div class="contentArea col-md-11">
             <div class="carousel-custom">
                 <?php echo do_shortcode("[slide-anything id='103']"); ?>
             </div>
