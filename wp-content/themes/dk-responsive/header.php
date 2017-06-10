@@ -72,5 +72,5 @@
     <div class="container">
         <div class="contentArea col-md-11">
             <div class="carousel-custom">
-                <?php echo do_shortcode("[slide-anything id='103']"); ?>
+                <?php //if (is_home()){echo do_shortcode("[slide-anything id='103']");} ?>
             </div>

@@ -156,7 +156,7 @@ final class WP_Customize_Nav_Menus {
 				// Add "Home" link. Treat as a page, but switch to custom on add.
 				$items[] = array(
 					'id'         => 'home',
-					'title'      => _x( 'HOME', 'nav menu home label' ),
+					'title'      => _x( 'Home', 'nav menu home label' ),
 					'type'       => 'custom',
 					'type_label' => __( 'Custom Link' ),
 					'object'     => '',
@@ -787,7 +787,7 @@ final class WP_Customize_Nav_Menus {
 	 */
 	public function insert_auto_draft_post( $postarr ) {
 		if ( ! isset( $postarr['post_type'] ) ) {
-			return new WP_Error( 'unknown_post_type', __( 'Unknown post type' ) );
+			return new WP_Error( 'unknown_post_type', __( 'Invalid post type.' ) );
 		}
 		if ( empty( $postarr['post_title'] ) ) {
 			return new WP_Error( 'empty_title', __( 'Empty title' ) );
