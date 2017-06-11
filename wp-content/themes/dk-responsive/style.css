@@ -886,13 +886,13 @@ a:active {
 }
 
 #secondary .widget-wrapper  a {
-	color: #464646;
+	color: #ad1443;
 	font-size: 14px;
 	font-weight:normal;
 }
 
 #secondary .widget-wrapper ul li a {
-	color: #464646;
+	color: #ad1443;
 }
 
 #secondary .widget-wrapper ul li:last-child a {
@@ -1423,7 +1423,7 @@ img.wp-post-image, img.attachment-full, img.attachment-large, img.attachment-med
 }
 .main-navigation ul ul .current_page_item ,
 .main-navigation ul ul .current-menu-item  {
-	background-color: #F5F5F5;
+	/*background-color: #F5F5F5; */
 }
 
 .main-navigation li li {

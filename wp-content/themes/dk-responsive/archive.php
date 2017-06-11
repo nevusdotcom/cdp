@@ -24,7 +24,8 @@ get_header(); ?>
 				<h5 class="page-title">
 					<?php
 						if ( is_category() ) :
-							single_cat_title();
+                            // removed as it looks baaad!
+							//single_cat_title();
 
 						elseif ( is_tag() ) :
 							single_tag_title();
